@@ -1,4 +1,4 @@
-div[name="notice"] {display: none!important;}
-div[name="More"].btn.flex {opacity: 0;-webkit-transition: .3s;}
-div[name="More"].btn.flex:hover {opacity: 1;}
-table[name="ACT_2line"], table.tableHeader {text-shadow: rgb(0, 0, 0) 0px 0px 0.3rem;}
+div[name="notice"] {display: none!important}
+div[name="More"].btn.flex {opacity: 0;-webkit-transition: .3s}
+div[name="More"].btn.flex:hover {opacity: 1}
+table[name="ACT_2line"], table.tableHeader {text-shadow: -1px 0 2px #795516, 0 1px 2px #795516, 1px 0 2px #795516, 0 -1px 2px #795516}
