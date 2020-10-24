@@ -1,2 +1,2 @@
-.btn_wrap { display: none; }
-[name="notice"] { display: none; }
+.btn_wrap { display: none !important; }
+[name="notice"] { display: none !important; }
