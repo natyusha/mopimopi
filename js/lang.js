@@ -151,7 +151,7 @@ l = {
                 target: {
                     KR: '모피모피　',
                     JP: 'MopiMopi　',
-                    EN: 'MopiMopi　',
+                    EN: '　',
                     FR: 'MopiMopi　',
                     DE: 'MopiMopi　',
                     CN: "MopiMopi　",
@@ -159,7 +159,7 @@ l = {
                 rps: {
                     KR: '전투를 시작하세요.',
                     JP: '戦闘を始めてください。',
-                    EN: 'Please start the combat.',
+                    EN: '',
                     FR: 'Démarrez un combat.',
                     DE: 'Warte auf Kampf.',
                     CN: "请开始战斗。",
