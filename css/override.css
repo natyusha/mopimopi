@@ -1,3 +1,4 @@
-.btn_wrap {display: none !important;}
-.tableHeader, [name="time"], [name="target"], [name="rps"] {text-shadow: rgb(0, 0, 0) 0px 0px 0.3rem!important;}
-[name="notice"] {display: none !important;}
+div[name="notice"] {display: none!important;}
+div[name="More"].btn.flex {opacity: 0;-webkit-transition: .3s;}
+div[name="More"].btn.flex:hover {opacity: 1;}
+table[name="ACT_2line"], table.tableHeader {text-shadow: rgb(0, 0, 0) 0px 0px 0.3rem;}
