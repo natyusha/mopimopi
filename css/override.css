@@ -1,2 +1,3 @@
-.btn_wrap { display: none !important; }
-[name="notice"] { display: none !important; }
+.btn_wrap {display: none !important;}
+.tableHeader, [name="time"], [name="target"], [name="rps"] {text-shadow: rgb(0, 0, 0) 0px 0px 0.3rem!important;}
+[name="notice"] {display: none !important;}
