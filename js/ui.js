@@ -34,6 +34,11 @@ function addOption() {
         init.ColData = Mopi2.ColData;
         init.Order = Mopi2.Order;
     }
+    
+     //임시기간에만 실행
+    if (init['Color']['RPR'] == "3A3A35")
+        init['Color']['RPR'] = "EADD6F"
+    
     SubOption()
 }
 function putValue(arr, c) {
@@ -564,7 +569,7 @@ function liReload() {
     });    
     $('.jscolor').unbind("click").bind('click', function() {
         if (init.q.keyboard) {
-            $(this).blur()
+            //$(this).blur()
             ctrlPreview(1)
         } else
             ctrlPreview(0)
