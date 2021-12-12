@@ -587,6 +587,19 @@ d = {
         DE: "OverHeal",
         CN: "OverHeal",
     },
+    LMB: {
+        tt: {
+            KR: "리미트 브레이크",
+            JP: "リミットブレイク",
+            EN: "Limit Break",
+            FR: "Transcendance",
+            DE: "Limitrausch",
+            CN: "极限技",
+        },
+        i: "<img src='./images/icon/frame/LMB.png'/>",
+        e: "li_color",
+        ul: 1
+    },
     CBO: {
         tt: {
             KR: "초코보",
