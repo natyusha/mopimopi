@@ -444,6 +444,10 @@ function Person(e, p) {
         case "FSH":
             this.role = "Gathering";
             break;
+        case "Limit Break":
+            this.Job = "LMB";
+            this.Class = "LMB";
+            break;
     }
     if (this.Class != "") {
         switch (this.Class) {
@@ -520,9 +524,6 @@ function Person(e, p) {
             this.Class = "WHM";
             this.isPet = true;
             this.role = "Healer";
-        } else if (this.name.indexOf("(") == -1) {
-            this.Job = "LMB";
-            this.Class = "LMB";
         }
     }
     try {
