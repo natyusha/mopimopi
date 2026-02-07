@@ -1765,7 +1765,7 @@ l = {
                     DE: "Viper",
                     CN: "Viper",
                 },
-                i: "<img src='./images/icon/frame/VIP.png'/>",
+                i: "<img src='./images/icon/frame/VPR.png'/>",
                 e: "li_color",
                 ul: 0
             },
@@ -1856,7 +1856,7 @@ l = {
                     DE: "Piktomant",
                     CN: "Pictomancer",
                 },
-                i: "<img src='./images/icon/frame/PIC.png'/>",
+                i: "<img src='./images/icon/frame/PCT.png'/>",
                 e: "li_color",
                 ul: 0
             },
@@ -4012,3 +4012,4 @@ l = {
         custom: "Tool"
     }
 }
+
